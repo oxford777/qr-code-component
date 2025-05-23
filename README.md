@@ -13,7 +13,7 @@ Les challenges de Frontend Mentor m’aident à améliorer mes compétences en H
 ## 🔗 Liens
 
 - Code source : [https://github.com/oxford777/qr-code-component](https://github.com/oxford777/qr-code-component)
-- Site en ligne : *(#### GitHub Pages)*
+- Site en ligne : https://oxford777.github.io/qr-code-component/
 
 
 ### 🔧 Construit avec
